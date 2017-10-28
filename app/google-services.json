@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252152384215",
+    "firebase_url": "https://carros-4b86a.firebaseio.com",
+    "project_id": "carros-4b86a",
+    "storage_bucket": "carros-4b86a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252152384215:android:2cafb106683cf9dd",
+        "android_client_info": {
+          "package_name": "com.example.android.carros_material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252152384215-aqrcfsr0niksigmpfr242todi990bvmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbOe6R-aWZX5jLiCoAZPXMDMxOrzq0FY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
